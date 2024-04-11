@@ -1,0 +1,10 @@
+.slick-track {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    column-gap: 4px !important;
+}
+
+.slick-next::before {
+    content: unset;
+    display: none;
+}

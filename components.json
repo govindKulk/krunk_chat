@@ -1,0 +1,16 @@
+{
+  "style": "default",
+
+  "tailwind": {
+    "config": "tailwind.config.js",
+    "css": "src/index.css",
+    "baseColor": "slate",
+    "cssVariables": false,
+    "prefix": ""
+  },
+  "typescript": false,
+  "aliases": {
+    "components": "src/components",
+    "utils": "src/utils"
+  }
+}
